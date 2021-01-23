@@ -1,5 +1,5 @@
 +++
-author = "Friedrich Nietzsche"
+author = "Gulnur Gundogan"
 date = 2021-01-22T23:00:00Z
 hero = ""
 title = "Welcome to my website"
